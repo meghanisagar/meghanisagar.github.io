@@ -1,12 +1,12 @@
-# [sagar](https://dev-sagar.in)
+# [sagar](www.linkedin.com/in/sagar-meghani)
 
-This is my personal web site's public repository named `meghanisagar.github.io`hosted with [GitHub Pages](https://pages.github.com/).
+This is my personal website's public repository. hosted with [GitHub Pages](https://pages.github.com/).
 
 
 - Basic details of mine
-- My career experiences eg. what type of projects i have done with respective firms
-- My Skill Sets, eg Progrmaing Languages, Libraries, Frameworks, Tools & Technologies.
-- A bit of an information about my education and genral interests.
+- My career experiences eg. what type of projects I have done with respective firms
+- My Skill Sets, eg Programming Languages, Libraries, Frameworks, Tools & Technologies.
+- A bit of information about my education and general interests.
 
 ## 👨‍💻 Technologies
 
