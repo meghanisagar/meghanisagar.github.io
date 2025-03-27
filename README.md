@@ -14,4 +14,4 @@ This is my personal website's public repository. hosted with [GitHub Pages](http
 [![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-[![Download CV](https://custom-icon-badges.demolab.com/badge/-Download-darkgray?style=for-the-badge&logo=downloadcv&logoColor=black "Download CV")](https://dev-sagar.in/assets/pdfs/sagar_meghani_reactjs_cv.pdf)
+[![Download CV](https://custom-icon-badges.demolab.com/badge/-Download-darkgray?style=for-the-badge&logo=downloadcv&logoColor=black "Download CV")](https://sagarmeghani.in/assets/pdfs/sagar_meghani_reactjs_cv.pdf)
